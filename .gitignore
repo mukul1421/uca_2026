@@ -60,3 +60,6 @@ dkms.conf
 #Executable for audit and sorting
 auditlog/auditlog
 sorting_algorithms/sorting
+
+#for log files
+*.log
