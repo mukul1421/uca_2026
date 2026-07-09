@@ -56,3 +56,7 @@ dkms.conf
 
 # Java classes
 *.class
+
+#Executable for audit and sorting
+auditlog/auditlog
+sorting_algorithms/sorting
