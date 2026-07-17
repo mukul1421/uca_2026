@@ -57,9 +57,10 @@ dkms.conf
 # Java classes
 *.class
 
-#Executable for audit and sorting
+#Compiled C Executables
 auditlog/auditlog
 sorting_algorithms/sorting
+Assignment_2/Fibonacci_even
 
 #for log files
 *.log
